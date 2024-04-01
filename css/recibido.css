@@ -1,0 +1,60 @@
+.datos {
+    width: 700px;
+    height: 500px;
+    background-color: #888;
+    border: 2px solid #444;
+    box-shadow: inset 0px 0px 10px #222;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.blanco{
+    width: 650px;
+    background-color: #fff;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.text_datos{
+    text-align: center;
+    font-family: serif;
+    margin-top: 35px; 
+    font-size: 30px;
+}
+
+.plomo{
+    position: absolute;
+    top: 25%; 
+    right: 100px;    
+    width: 260px;
+    height: 200px;
+    background-color: #797979;
+}
+
+.plomo textarea {
+    width: 100%; 
+    height: 100%; 
+    border: none; 
+    background-color: transparent; 
+    resize: none; 
+    font-family: inherit; 
+    color: inherit; 
+    outline: none; 
+
+}
+
+.input{
+    width: 260px;
+    height: 50px; 
+    position: absolute;
+    top: 10%; 
+    right:100px;   
+}
+
+.boton{
+    width: 250px;
+    height: 50px;
+    background-color: green;
+    position: absolute; 
+    top: 80%; 
+    right: 100px;
+    cursor: pointer;
+}
